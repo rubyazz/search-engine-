@@ -1,3 +1,3 @@
 # search-engine-
-INSTALLING:
+Running:
 `$ cargo run serve ./folder/`
